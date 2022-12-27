@@ -1,8 +1,4 @@
-# space_app
-
-A new Flutter project.
-
-## Space App
+# Space App
 
 A Space Application where i have crafted a satisfying user interface to give and list some pictures as well as some information about every planet in our solar system.
 
